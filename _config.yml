@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "          "
 title_separator          : "-"
 name                     : &name "Manisha Munasinghe"
 description              : &description "PhD Candidate in Computational Biology at Cornell University"
