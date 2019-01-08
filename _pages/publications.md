@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+In Review
+======
+
+Ågren, JA, Munasinghe MA, and AG Clark. Sexual conflict through Mother's Curse and Father's Curse. Preprint [here](https://www.biorxiv.org/content/biorxiv/early/2018/06/12/345611.full.pdf)
