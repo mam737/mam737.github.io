@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D., Computational Biology, currently enrolled, Cornell University
 * B.S., Mathematics, 2015, Michigan State University
-Let's try [thi](/assets/cv.pdf)!
+* Let's try [this](/assets/cv.pdf)!
 
 Positions Held
 ======
