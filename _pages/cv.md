@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D., Computational Biology, currently enrolled, Cornell University
 * B.S., Mathematics, 2015, Michigan State University
-<a href="cv.pdf"> CV Here </a>
+<a href="/Users/Minie/Desktop/github/mam737.github.io/files/cv.pdf"> CV Here </a>
 
 Positions Held
 ======
