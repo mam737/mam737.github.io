@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Computational Biology, currently enrolled, Cornell University
+* B.S., Mathematics, 2015, Michigan State University
+<a href="cv.pdf"> CV Here </a>
 
-Work experience
+Positions Held
 ======
 * Summer 2015: Research Assistant
   * Github University
