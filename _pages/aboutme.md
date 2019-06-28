@@ -12,3 +12,5 @@ I am a 4th year PhD student in the [Graduate Field of Computational Biology](htt
 
 
 ![Trying a Thing](https://raw.githubusercontent.com/mam737/mam737.github.io/master/images/clarklab.jpg)
+
+<img src="../images/clarklab.jpg" width="800" /> ![](../images/clarklab.jpg)
