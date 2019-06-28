@@ -11,4 +11,4 @@ redirect_from:
 I am a 4th year PhD student in the [Graduate Field of Computational Biology](https://cb.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I earned my B.Sc. in Mathematics in 2015 from [Michigan State University](https://msu.edu/) before moving to Cornell to work with [Dr. Andy Clark](https://blogs.cornell.edu/clarklabblog/). My research so far has primarily centered on (1) using mathematical models and computar simulations to examine the role of genetic transmission asymmetries in both causing and resolving sexual conflicts and (2) performing either whole genome or RNA sequencing analyses aimed at identifying sexually antagonsitic mitochondrial-nuclear interactions.
 
 
-![Trying a Thing](/Users/Minie/Desktop/github/mam737.github.io/images/clarklab.jpg)
+![Trying a Thing](https://github.com/mam737/mam737.github.io/blob/master/images/clarklab.jpg)
