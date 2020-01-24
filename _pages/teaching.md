@@ -7,19 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Cornell University
-======
-* Teaching Assistant
-	* BIOMG 4870/6870: Human Genomics - Fall 2018, Fall 2017
-	* BTRY 4830/6830: Quantitative Genetics and Genomics - Spring 2018
-* Guest Lecture
-	* BIOMG 4870/6870: Human Genomics - Personal Genomics and Direct-to-Consumer Genetic Testing
+As an aspiring facutly member, my mission as an eductor is to disseminate knowledge, teach specific skills, and prepare students for their future careers. To do this, my teaching philosophy can be summarized into three foundational pillars: (1) **clarity** of learning objectives and assessments, (2) **communication** of concepts to diverse audiences, and (3) **empower** students to solve new problems. More details can be found within my [teaching statement] (/assets/teaching_statement.pdf). 
 
-Michigan State University
-======
-* Teaching Assistant
-	* LB 118: Calculus I - Fall 2012, Spring 2014
-	* LB 119: Calculus II - Spring 2013, Spring 2015 
-	* LB 220: Calculus III - Fall 2013, Fall 2014
-* Workshops
-	* Creating Inclusive Learning Environments - 2012 - 2014
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
