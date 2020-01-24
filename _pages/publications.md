@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-In Review
-======
+Ågren JA, **Manisha Munasinghe**, and Andrew G. Clark. "Mitochondrial-Y Chromosome Epistasis in *Drosophila melanogaster*" *Proceedings B* (In Review)
 
-Ågren, JA, **Munasinghe MA**, and AG Clark. [Sexual conflict through Mother's Curse and Father's Curse.](https://www.biorxiv.org/content/biorxiv/early/2018/06/12/345611.full.pdf) *Theoretical Population Biology* (2019).
+Ågren JA, **Manisha Munasinghe**, and Andrew G. Clark. 2019. "Sexual Conflict through Mother's Curse and Father's Curse." *Theoretical Population Biology*, 129 (10): 9-17. [https://doi.org/10.1016/j.tpb.2018.12.007](https://doi.org/10.1016/j.tpb.2018.12.007).
+
