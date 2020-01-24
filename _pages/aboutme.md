@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student in the [Graduate Field of Computational Biology](https://cb.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I earned my B.Sc. in Mathematics in 2015 from [Michigan State University](https://msu.edu/) before moving to Cornell to work with [Dr. Andy Clark](https://blogs.cornell.edu/clarklabblog/). My research so far has primarily centered on (1) using mathematical models and computar simulations to examine the role of genetic transmission asymmetries in both causing and resolving sexual conflicts and (2) performing either whole genome or RNA sequencing analyses aimed at identifying sexually antagonsitic mitochondrial-nuclear interactions.
+I am a 5th year PhD student in the [Graduate Field of Computational Biology](https://cb.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I earned my B.Sc. in Mathematics in 2015 from [Michigan State University](https://msu.edu/) before moving to Cornell University to work with [Andy Clark](https://blogs.cornell.edu/clarklabblog/). I am interested in the genetic, behavioral, and environmental factors that contribute to speciation. I integrate population genetic theory and computer simulations that model historic processes with large-scale datasets containing whole-genome and -transcriptome information for populations of interest. 
 
 <img src="../images/clarklab.jpg" width="800" /> ![](../images/clarklab.jpg)
