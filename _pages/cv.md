@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](/assets/cv.pdf) - Updated 12.20.18
+Download CV [here](/assets/cv.pdf) - Updated 1.25.20
