@@ -15,3 +15,7 @@ As an aspiring facutly member, my mission as an eductor is to disseminate knowle
  Course: BIOMG 4870 Human Genomics | Fall 2017, Fall 2018 | Syllabus
 
  Course: BTRY 4830 Quantitative Genetics and Genomics | Spring 2018 | Syllabus
+
+ <span style="color:#B31B1B;font-size:20px"> Cornell University: Center for Teaching Innovation GET SET </span>
+
+Cornell University's Center for Teaching Innovation supports the university's teaching community. The [GET SET](https://teaching.cornell.edu/programs/get-set-workshops) workshops offer participants the opportunity to attend weekly workshops on teaching and learning in higher education. These workshops introduce participants to broad aspects of teaching in higer education by providing brief theoretical backgrounds, offering practical approaches, and working to imagine ways to incorporate these techniques into their classroom. 
