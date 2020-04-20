@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /aboutme/
     
-  - title: "Resesarch"
+  - title: "Research"
     url: /research/
 
   - title: "Publications"
